@@ -1,2 +1,2 @@
 # custom-jwt
-Customize JWT between NGINX and your Microservices
+Customize JWT (NJS) between NGINX and your Microservices
